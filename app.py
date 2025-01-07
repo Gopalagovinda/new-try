@@ -13,7 +13,7 @@ def home():
         <title>Welcome</title>
     </head>
     <body>
-        <h1>Welcome to the Python Web Server!</h1>
+        <h1>Welcomeee to the Python Web Server!</h1>
         <p>This is a static HTML page served by Flask.</p>
     </body>
     </html>
