@@ -38,5 +38,5 @@ jobs:
 
       - name: Push Docker image to Docker Hub
         run: |
-          docker tag python-web-server:latest sgutnikov108/python-web-server:latest
+          docker tag python-web-server:latest sgutnikov10/python-web-server:latest
           docker push sgutnikov108/python-web-server:latest
